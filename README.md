@@ -1,0 +1,2 @@
+# sppnet_feature
+用pytorch编写以vgg16为基础的sppnet提取最后一层卷积层的特征。
