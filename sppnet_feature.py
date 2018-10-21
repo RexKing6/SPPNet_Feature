@@ -94,4 +94,3 @@ feature.shape
 label = np.matrix(labels)
 io.savemat('c_features.mat', {'c_feature': feature})
 io.savemat('c_labels.mat', {'c_label': label})
-
